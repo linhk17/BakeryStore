@@ -1,0 +1,77 @@
+
+.btn:focus{
+    box-shadow: none;
+}
+
+.form-check-input:focus{
+    background-color: #000;
+    box-shadow: none;
+    border: none;
+}
+.btn{
+    border: 0;
+    color: #FFD07F;
+    padding: 10px;
+}
+.btn-submit{
+    background-color: #000;
+    color: #FFD07F;
+}
+.btn-facebook{
+    background-color: #022E57;
+}
+.btn-facebook:hover{
+    background-color: rgba(2, 46, 87, 0.9);
+    color: #FFD07F;
+}
+/* 2B4F60 */
+.btn-submit:hover,.btn-apple:hover{
+    background-color: rgba(0, 0, 0, 0.88);
+    color: #FFD07F;
+}
+.btn-twitter{
+    background-color: #34626C;
+}
+.btn-twitter:hover{
+    background-color: #34626Cf2;
+    color: #FFD07F;
+}
+.btn-google{
+    background-color: #630000;
+}
+.btn-google:hover{
+    background-color: rgb(99, 0, 0,0.88);
+    color: #FFD07F;
+}
+.btn-forgot{
+    border: #000 solid 1px;
+    padding: 10px;
+    background-color: #fff;
+}
+.btn-forgot:hover{
+    background-color: rgb(235, 235, 235);
+}
+.btn-momo{
+    border: #E60965 solid 1px;
+    background-color: #fff;
+    color: #e60965;
+}
+.btn-momo:hover{
+    background-color: #e6096511;
+}
+.btn-bank{
+    border: #000D6B solid 1px;
+    background-color: #fff;
+    color: #000D6B;
+}
+.btn-bank:hover{
+    background-color: #09579629;
+}
+.btn-pay{
+    border: #8E0505 solid 1px;
+    background-color: #fff;
+    color: #8E0505;
+}
+.btn-pay:hover{
+    background-color: #8e050513;
+}

@@ -1,0 +1,62 @@
+
+.admin-text, .admin-menu ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+.admin-menu ul li:hover{
+    background-color: rgba(59, 59, 59, 0.436);
+    color: #fff;
+    border-radius: 0 30px 30px 0;
+    width: 100%;
+}
+.admin-menu ul li button:hover,
+.admin-menu ul li a:hover{
+    color: rgba(255, 255, 255);
+}
+.admin-menu ul li{
+    padding:5px;
+}
+.logo-img {
+    max-width: 20vh;
+    height: 6vh;
+  }
+  
+.card-text{
+    color: #fff;
+}
+.card-admin-product{
+    background-color: #000B49;
+}
+.card-admin-product i{
+    color: #F8B400;
+}
+.card-admin-user{
+    background-color: #630A10;
+}
+.card-admin-user i{
+    color: #49FF00;
+}
+.card-admin-recipt{
+    background-color: #194350;
+}
+.card-admin-recipt i{
+    color: #F8B400;
+}
+.card-admin-proceed{
+    background-color: #7B113A;
+}
+.card-admin-proceed i{
+    color: #49FF00;
+}
+.product tbody tr td{
+    padding: 0;
+}
+.table-hover{
+    background-color: rgb(255, 255, 255);
+}
+.user-table tr td{
+    padding: 1em;
+  }
+
+
+
